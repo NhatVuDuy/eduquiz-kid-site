@@ -1,0 +1,2 @@
+import{j as s}from"./index-DgPvIKZH.js";import"./animation-vendor-B6fZrcjP.js";import{c as l,B as u}from"./Button-BSswS8xo.js";const d=({onClick:e,label:o="← Quay lại",className:n="",inline:t=!1,variant:r="outline",size:a,...c})=>{const m=t?"mt-0 text-left":"mt-8 text-center",i=a||(t?"sm":"md");return s.jsx("div",{className:l(m,n),children:s.jsx(u,{onClick:e,variant:r,size:i,...c,children:o})})};export{d as B};
+//# sourceMappingURL=BackButton-DiXkh2uG.js.map

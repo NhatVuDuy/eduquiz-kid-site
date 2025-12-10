@@ -1,0 +1,2 @@
+import{c as i}from"./ui-vendor-B8QmJS74.js";const n=i(u=>({currentLesson:null,questionCount:10,quizSettings:{scoringMode:"basic",timeLimit:30,autoNext:!0},quizResult:null,setCurrentLesson:t=>{u({currentLesson:t})},setQuestionCount:t=>{u({questionCount:t})},setQuizSettings:t=>{u(e=>({quizSettings:{...e.quizSettings,...t}}))},setQuizResult:t=>{u({quizResult:t})},clearQuiz:()=>{u({currentLesson:null,questionCount:10,quizSettings:{scoringMode:"basic",timeLimit:30,autoNext:!0},quizResult:null})}}));export{n as u};
+//# sourceMappingURL=quizStore-C82KE-Wh.js.map
