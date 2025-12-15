@@ -1,0 +1,2 @@
+import{j as e}from"./index--ILSzZaw.js";import"./animation-vendor-B6fZrcjP.js";import{c as s}from"./Button-Bl6cuHxx.js";const x=({label:t,value:r,valueClassName:n="",className:a="",...m})=>e.jsxs("div",{className:s("flex justify-between items-center",a),...m,children:[e.jsx("span",{className:"text-gray-700 font-medium",children:t}),e.jsx("span",{className:s("text-lg font-semibold text-gray-800",n),children:r})]});export{x as I};
+//# sourceMappingURL=InfoRow-0klGmtIO.js.map
