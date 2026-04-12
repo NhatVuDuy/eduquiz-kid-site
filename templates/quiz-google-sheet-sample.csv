@@ -1,0 +1,4 @@
+id,question,type,answer,hint,points,explanation,image_url,choice_1,choice_2,choice_3,choice_4
+demo_001,"2 + 3 bằng mấy?","choice","5","Cộng hai số nhỏ",10,"2 + 3 = 5.",,"3","4","5","6"
+demo_002,"Viết một từ chỉ màu của lá cây.","input","xanh","Màu tự nhiên",10,"Đáp án gợi ý: xanh (hoặc xanh lá).",,,,,
+demo_003,"Thủ đô Việt Nam là đâu?","choice","Hà Nội","Thành phố lớn phía Bắc",10,"Thủ đô Việt Nam là Hà Nội.",,"Hà Nội","TP.HCM","Đà Nẵng","Huế"
